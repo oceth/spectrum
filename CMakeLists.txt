@@ -132,6 +132,7 @@ set(spectrum_SRCS
 	src/protocols/sipe.cpp
 	src/protocols/twitter.cpp
 	src/protocols/xmpp.cpp
+	src/protocols/xfire.cpp
 	src/protocols/yahoo.cpp
 )
 
@@ -201,6 +202,7 @@ set(spectrum_MOC_HDRS
 	src/protocols/simple.h
 	src/protocols/sipe.h
 	src/protocols/xmpp.h
+	src/protocols/xfire.h
 	src/protocols/yahoo.h
 )
 
